@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Project Screnshoot][project-screenshot]]
+![Project Screnshoot][project-screenshot]
 
 Above, an image of the diagram containing the tables: "Doctor", "Medical Speciality", "Consultation", "Patients", "Prescription" and "Health Insurance". Each table has its required fields as per the assignment.
 <br />
@@ -68,6 +68,6 @@ Acima, uma imagem do diagrama contendo as tabelas: "Medico", "EspecialidadeMedic
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MarkDowns -->
-[project-screenshot]: static/Print Banco.png
+[project-screenshot]: static/Print_Banco.png
 [mySQL]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [mySQL-url]: https://www.mysql.com/
