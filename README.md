@@ -80,6 +80,14 @@ Você pode utilizar o MySQL Workbench ou o DBdiagram.io para montar os scripts S
 
 Importante: desse modelo já devemos gerar a etapa lógica da nossa modelagem!</p>
 
+![Project Screnshoot2][project-screenshot-2]
+
+Above, an image of the diagram containing the tables: "Doctor", "Medical Speciality", "Consultation", "Patients", "Prescription", "Health Insurance", "Nurse", "Room" and "Type of Room". Each table has its required fields as per the assignment, and tables have been updated.
+<br />
+<br />
+Acima, uma imagem do diagrama contendo as tabelas: "Medico", "EspecialidadeMedica", "Consulta", "Pacientes", "Receita", "Convenio", "Internações", "Quarto", "Enfermeiro", "Tipo de quarto". Cada tabela tem seus campos necessários, conforme pedidos no enunciado e as tabelas foram atualizadas.
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -160,5 +168,6 @@ Project Link: [https://github.com/4lvesgabriel/hospital_bd](https://github.com/g
 
 <!-- MarkDowns -->
 [project-screenshot]: static/Print_Banco.png
+[project-screenshot-2]: static/Print_Banco2.png
 [mySQL]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [mySQL-url]: [https://www.mysql.com/](https://www.mysql.com/products/workbench/)
