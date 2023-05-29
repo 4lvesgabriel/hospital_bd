@@ -64,29 +64,29 @@ INSERT INTO paciente (nome, sobrenome, cpf, rg, endereco, telefone, email, id_co
 INSERT INTO paciente (nome, sobrenome, cpf, rg, endereco, telefone, email, id_convenio ) VALUES ("derek","luccas","149.999.999-99","14.999.999-9","R. Um, 14","(11)99999-9999","email@email.com",3);
 INSERT INTO paciente (nome, sobrenome, cpf, rg, endereco, telefone, email, id_convenio ) VALUES ("igor","kuwahara","159.999.999-99","15.999.999-9","R. Um, 15","(11)99999-9999","email@email.com",6);
 
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2015","07:00","R$150,00",1,1,1,1);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2016","07:30","R$150,00",2,2,2,2);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2016","08:00","R$150,00",3,3,3,3);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2017","08:30","R$150,00",4,4,4,4);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2017","09:00","R$150,00",5,5,5,5);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2015","07:00",150,1,1,1,1);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2016","07:30",150,2,2,2,2);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2016","08:00",150,3,3,3,3);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2017","08:30",150,4,4,4,4);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2017","09:00",150,5,5,5,5);
 
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2018","07:00","R$150,00",4,4,1,6);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2018","07:30","R$150,00",9,9,6,7);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2019","08:00","R$150,00",8,8,3,8);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2019","08:30","R$150,00",6,6,2,9);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2019","09:00","R$150,00",2,2,6,10);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2018","07:00",150,4,4,1,6);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2018","07:30",150,9,9,6,7);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2019","08:00",150,8,8,3,8);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2019","08:30",150,6,6,2,9);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2019","09:00",150,2,2,6,10);
 
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2020","07:00","R$150,00",1,1,4,11);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2020","07:30","R$150,00",8,8,6,12);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2020","08:00","R$150,00",3,3,2,13);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2021","08:30","R$150,00",1,1,3,14);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2021","09:00","R$150,00",10,10,6,15);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2020","07:00",150,1,1,4,11);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2020","07:30",150,8,8,6,12);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2020","08:00",150,3,3,2,13);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2021","08:30",150,1,1,3,14);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2021","09:00",150,10,10,6,15);
 
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2021","07:00","R$150,00",2,2,1,1);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2021","07:30","R$150,00",4,4,2,2);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2022","08:00","R$150,00",7,7,3,3);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2022","08:30","R$150,00",5,5,4,4);
-INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2022","09:00","R$150,00",10,10,5,5);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2021","07:00",150,2,2,1,1);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2021","07:30",150,4,4,2,2);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2022","08:00",150,7,7,3,3);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2022","08:30",150,5,5,4,4);
+INSERT INTO consulta (dataConsulta, horaConsulta, valorConsulta, id_medico, id_especialidade, id_convenio, id_paciente) VALUES ("01/01/2022","09:00",150,10,10,5,5);
 
 INSERT INTO receita (medicamento, quantidade, instrucoesUso, id_medico) VALUES ("Loratadina","10mg com 12 comprimidos","tomar um comprimido de 12 em 12 horas", 1);
 INSERT INTO receita (medicamento, quantidade, instrucoesUso, id_medico) VALUES ("Dipirona","500mg com 10 comprimidos","tomar um comprimido de 12 em 12 horas", 2);
