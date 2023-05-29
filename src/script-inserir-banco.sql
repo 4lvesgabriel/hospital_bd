@@ -152,11 +152,11 @@ INSERT INTO enfermeiro (nome, sobrenome, cpf, cre) VALUES ("diana","sabrina","00
 
 
 INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2015","08/01/2015","07/01/2015","cirurgia de braço quebrado",1,1,1,1);
-INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2015","08/01/2015","07/01/2015","cirurgia de perna quebrada",2,1,1,1);
-INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2015","08/01/2015","07/01/2015","tratamento de gastrite",3,2,3,3);
-INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2015","08/01/2015","07/01/2015","tratamento de cancer de pele",4,3,4,4);
-INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2015","08/01/2015","07/01/2015","exames gastrointestinais",5,3,5,5);
-INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2015","08/01/2015","07/01/2015","tratamento de gastrite",3,2,3,3);
+INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2016","08/01/2016","06/01/2016","cirurgia de perna quebrada",2,1,1,1);
+INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2016","08/01/2016","07/01/2016","tratamento de gastrite",3,2,3,3);
+INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2017","08/01/2017","10/01/2017","tratamento de cancer de pele",4,3,4,4);
+INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2017","08/01/2017","07/01/2017","exames gastrointestinais",5,3,5,5);
+INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2020","08/01/2020","09/01/2020","tratamento de gastrite",3,2,3,3);
 INSERT INTO internacoes (data_entrada, data_prev_alta, data_alta, procedimento, id_quarto, id_tipo_quarto, id_paciente, id_medico) VALUES ("01/01/2022","08/01/2022","08/01/2022","cirurgia cardiovascular",4,3,7,7);
 
 
